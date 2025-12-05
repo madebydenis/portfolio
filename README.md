@@ -218,6 +218,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Built with ❤️ using modern web technologies*
 
+## 📊 GitHub Analytics Graph
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madebydenis&theme=transparent&border_radius=10)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madebydenis&layout=compact&theme=transparent&border_radius=10)
+
+### Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=madebydenis&theme=github-compact)
 
 ## 🌐 Live Demo
 
